@@ -172,12 +172,12 @@ Benim sistemimde (TR-Q), BadUSB ile `Keyboard.println()` fonksiyonu kullanarak
 Belki gelecekte `Keyboard.println()` fonksiyonu içindeki karakter
 dizilerini/stringleri TR-Q'dan US-International klavye dizilimine tercüme eden
 bir programı da bu depoda paylaşırım. Siz yazarsanız lütfen gönderin,
-depoya ekleyeyim.
+bu depoya ekleyeyim.
 
 ### **Başka?**
 
 Yukarıda donanım planını paylaştığım BadUSB ile yapacağınız işlemler için
-gereken standart program kalıbını GitHub hesabıma ekledim. `switch` içindeki
+gereken standart program kalıbını bu depoya ekledim. `switch` içindeki
 `case`leri keyfinizce modifiye ederek 16 farklı script çalıştırabilirsiniz
 (4'lü DIP switch, ikilik tabanda (0 - 1) 2 üzeri 4'ten 16 farklı script
 çalıştırılabilmesine imkan tanıyor). Arduino IDE ile kaynak kodu düzenleyip
