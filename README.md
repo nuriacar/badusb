@@ -186,12 +186,3 @@ gereken standart program kalıbını GitHub hesabıma ekledim. `switch` içindek
 çalıştırılabilmesine imkan tanıyor). Arduino IDE ile kaynak kodu düzenleyip
 Arduino Pro Micro'yu güncelleyin. Hepsi bu.
 
-Aşağıdaki **kehtapot**'a veya **ahtapedi**'ye (ahtapot ve kedi birleşimi bir
-modern zaman canavarı, GitHub maskotu: **Octocat**) tıklayarak kaynak kodlara
-erişebilirsiniz.
-
-[![BadUSB GitHub](/assets/img/github-icon.png "BadUSB GitHub")](https://github.com/nuriacar/badusb)
-
-Kaynak Kod Deposu
-{: style="color:gray; font-size: 80%; text-align: left;"}
-
