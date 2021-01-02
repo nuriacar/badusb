@@ -46,8 +46,7 @@ ENTER
 Ben bu şekilde direktif script'leri yazıp Arduino'nun okuyup işlemesini
 beklemek yerine, istediklerimi gerçekleştirecek Arduino C kodunu yazıp
 donanıma gömdüm. Belki gelecekte yukarıdaki gibi direktif script'leri ile
-çalışan Arduino C kodunu da [projenin GitHub
-deposunda](https://github.com/nuriacar/badusb) paylaşırım.
+çalışan Arduino C kodunu da bu depoda paylaşırım.
 
 ### **Malzemeler ve Bağlantı Diyagramı**
 
@@ -172,7 +171,7 @@ Benim sistemimde (TR-Q), BadUSB ile `Keyboard.println()` fonksiyonu kullanarak
 
 Belki gelecekte `Keyboard.println()` fonksiyonu içindeki karakter
 dizilerini/stringleri TR-Q'dan US-International klavye dizilimine tercüme eden
-bir programı da GitHub hesabımda paylaşırım. Siz yazarsanız lütfen gönderin,
+bir programı da bu depoda paylaşırım. Siz yazarsanız lütfen gönderin,
 depoya ekleyeyim.
 
 ### **Başka?**
