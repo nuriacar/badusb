@@ -126,7 +126,7 @@ sisteme netcat.exe kopyalayıp saldırgana reverse shell açan bir payload
 dosyası (`netcat-payload.bat`) oluşturup depoya ekledim. Çalışması için harici
 USB/HDD içinde `netcat-payload.bat` ile birlikte `netcat.exe` de yer alması
 gerekiyor. `netcat.exe` de gene depoda `/assets/exe/` dizini içinde yer alıyor
-(overlock makinesi ayağınıza geldi). `netcat-payload.bat` içindeki IP ve port
+(overlock makinesi ayağınıza geldi). `netcat-payload.bat` içindeki IP ve PORT
 kısımlarını kendinize göre ayarlamayı ihmal etmeyin.
 
 ### **Dikkat!**
