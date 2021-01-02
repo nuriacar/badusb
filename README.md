@@ -16,8 +16,6 @@ BadUSB'yi yaparken YouTube
 [Seytonic](https://www.youtube.com/channel/UCW6xlqxSY3gGur4PkGPEUeA) kanalının
 yaptığı Arduino devresinden örnek aldım ve kendime göre değiştirdim.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QrwqeI99I8E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 Seytonic projesi switch'le aktifleşen text script'leri çalıştırıyor. Bu tarz
 script yazımı ve yazılanları okuması daha kolay. Siz anahtar kelimelerle text
 dosyaları oluşturuyorsunuz; Arduino ise bir nevi tercüman gibi satırları
